@@ -16,6 +16,13 @@ This project is an NFT marketplace that allows users to buy, sell and trade non-
 - Node.js (v14 or later)
 - Hardhat (`npm install --save-dev hardhat`)
 - Ganache (for local development/testing)
+### Snapshots
+![App Screenshot](https://media.licdn.com/dms/image/D4D22AQFW8GuXairEvA/feedshare-shrink_2048_1536/0/1682743897814?e=1692230400&v=beta&t=B9qutLZZ97II_IjD6PocerRhF2Pv3Oin_VXvzgG-6So)
+![App Screenshot](https://media.licdn.com/dms/image/D4D22AQGQFgXqW-QCXg/feedshare-shrink_2048_1536/0/1682743897728?e=1692230400&v=beta&t=KNxIbmmLPxHvqRuAOww4hQta19Lg8C9JIEe3iNo0Z6w)
+![App Screenshot](https://media.licdn.com/dms/image/D4D22AQEH8xLXM5jeeQ/feedshare-shrink_2048_1536/0/1682743897865?e=1692230400&v=beta&t=eGzGKc0NGbLHmp3XmCk3QCHeJ6ZFQLHCaa1hXKYolqg)
+![App Screenshot](https://media.licdn.com/dms/image/D4D22AQHM2KethLmDtw/feedshare-shrink_2048_1536/0/1682743897999?e=1692230400&v=beta&t=UbyVQcTR33CwD-JvqlDzWVBPeiycY3WLHVcbcyR2CCQ)
+![App Screenshot](https://media.licdn.com/dms/image/D4D22AQHI3xlpnRVWpQ/feedshare-shrink_800/0/1682743897859?e=1692230400&v=beta&t=Mb0E-aUZIX2kHd5GRK5_nkMfmoDOe5LjzRaRfU_naxw)
+![App Screenshot](https://media.licdn.com/dms/image/D4D22AQFop6fbK7KrBA/feedshare-shrink_800/0/1682743897834?e=1692230400&v=beta&t=fS92z1Km4xzGYHfbJ-wG6yo63skr-zm0po1X5bdznTw)
 
 ### Installing
 
